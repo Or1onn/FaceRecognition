@@ -24,6 +24,7 @@ int main() {
         std::vector<cv::Rect> faces;
 
         faceDetect.detectMultiScale(frame, faces, 1.3, 5);
+
         for (auto face : faces) {
             cv::rectangle(frame, face.tl(), face.br(), cv::Scalar(50, 50, 255), 2);
 
