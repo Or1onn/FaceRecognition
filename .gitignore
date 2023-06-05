@@ -2,9 +2,6 @@
 
 .idea
 
-# CMake
-cmake-build-*/
-
 # File-based project format
 *.iws
 
@@ -67,19 +64,5 @@ fabric.properties
 *.out
 *.app
 
-
-# CMake ================================
-bin/
-build/
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
 
 

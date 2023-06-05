@@ -1,0 +1,9 @@
+# ninja log v5
+1	2474	7076910459843974	CMakeFiles/FaceRecognizer.dir/main.cpp.obj	c5a91191ff37a7b5
+2475	2633	7076910461154215	FaceRecognizer.exe	b4efae3c7b01e754
+1	124	7076911171136963	build.ninja	fb6add49021848cb
+1	3010	7076911516288061	CMakeFiles/FaceRecognizer.dir/visualize.cpp.obj	f6995fd60e543919
+1	2627	7076911762919157	CMakeFiles/FaceRecognizer.dir/main.cpp.obj	c5a91191ff37a7b5
+2627	2801	7076911764308894	FaceRecognizer.exe	ac0cfe9994c63358
+1	2587	7076912149376165	CMakeFiles/FaceRecognizer.dir/main.cpp.obj	c5a91191ff37a7b5
+2587	2749	7076912150728657	FaceRecognizer.exe	ac0cfe9994c63358
